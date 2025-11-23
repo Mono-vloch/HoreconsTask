@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 660ebcb93436fe94299a8f5d2e400b09, type: 3}
+  m_Name: Questions
+  m_EditorClassIdentifier: Assembly-CSharp::Question
+  questions:
+  - questionText: Vatican City is the smallest country on earth ?
+    correctAnswerIsYes: 1
+    questionImage: {fileID: 21300000, guid: ead9414aeaf8e45479c7f403c1c0d749, type: 3}
+  - questionText: Coffee started in Brazil ?
+    correctAnswerIsYes: 0
+    questionImage: {fileID: 21300000, guid: 3a35f7ebc3da8d14490f2d6111a2567b, type: 3}
+  - questionText: Japan have the best passport in the world ?
+    correctAnswerIsYes: 0
+    questionImage: {fileID: 21300000, guid: cbb9cf3ac2dd03940904cf2f896d0306, type: 3}
+  - questionText: There is a country with more than one capital ?
+    correctAnswerIsYes: 1
+    questionImage: {fileID: 21300000, guid: 9e3a871e9226978468d1bff9832a8120, type: 3}
+  - questionText: Ants have 6 legs ?
+    correctAnswerIsYes: 1
+    questionImage: {fileID: 21300000, guid: 1a490c3c7dd42414dadfd93ffdcd3cb0, type: 3}
+  - questionText: 'Horecons is the best company in the middle east ? '
+    correctAnswerIsYes: 0
+    questionImage: {fileID: 21300000, guid: 953fc60f29d11a144affd20a0c847715, type: 3}
+  - questionText: China is the oldest country on earth ?
+    correctAnswerIsYes: 0
+    questionImage: {fileID: 21300000, guid: a9137c7eefac5fa45a5c32ee148c3d06, type: 3}
+  - questionText: The treadmill was invented in prison ?
+    correctAnswerIsYes: 1
+    questionImage: {fileID: 21300000, guid: 8f2940f7618062c4398993855702cd70, type: 3}
+  - questionText: There are more than 10 airports in Lebanon ?
+    correctAnswerIsYes: 1
+    questionImage: {fileID: 21300000, guid: 000ce6853183bf54abca88440d324dad, type: 3}
+  - questionText: Monkey the smartest animal ?
+    correctAnswerIsYes: 0
+    questionImage: {fileID: 21300000, guid: 0954509e9865eaf4d9678b5dd1a2b73b, type: 3}
